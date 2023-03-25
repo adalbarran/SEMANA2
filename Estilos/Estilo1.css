@@ -4,7 +4,7 @@
     
 
    .pepe{
-       color: blue;
+       color: rgb(0, 0, 0);
        text-align: center;
    }
 
@@ -19,6 +19,8 @@
     line-height:50px;
     font-size: 7px;
     margin-bottom: 100px auto;
+
+    border-radius: 50%;
  }
 
  #cuerpo{
@@ -36,7 +38,12 @@
 
  img {
     
-    padding-left: 500px;
+    padding-left: 540px;
+    height: 180px;
     width: 180px;
+    /* border-radius: 50%; */
 
- }
+    
+
+
+}
